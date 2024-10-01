@@ -5,18 +5,12 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 
 ## Introduction
 
-1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
+1. My name is Devin. I go by He/Him pronouns. I like to play rogue like games along with fps games. I'm taking this class in order to learn how to code games. I've done a few projects in other GDIM classes where I had to make some physical games. I'm hoping to build rogue like games in the future. 
 
-2. Which of the following best describes your major? Please specify if not GDIM.  
+2. GDIM
 
-    - [ ] Game Design & Interactive Media
-    - [ ] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
-    - [ ] Art-related major (please specify)
-    - [ ] Undecided
-    - [ ] Other (please specify)
-
-3. What are you hoping to get out of this class?
-4. What, if anything, are you nervous about for this class?
+3. I'm hoping to learn how to code a game since I have pretty much zero experience with coding. 
+4. I'm a bit nervous about the group project at the end. 
 
 ## Prior Experience
 
@@ -24,11 +18,11 @@ The next questions ask about what (if any) prior experience you have. This class
 
 ### Development
 
-1. Programming (any languages/ frameworks)
+1. N/A
 
-2. Game development (any engine)
+2. N/A
 
-3. Unity
+3. N/A
 
 ### Programming & Game Development Concepts
 
@@ -39,16 +33,16 @@ For the next questions, a programming or game development concept is presented:
 
 **These questions are not graded for accuracy! Answer honestly, don’t Google it.**
 
-1. Game design document
+1. A document that describes your game concept and the specifics of what it needs. 
 
-2. Scope management
+2. N/A
 
-3. Iteration
+3. Iteration is pretty much making changes to your game concept until you like it. 
 
-4. Object-Oriented programming
-
-5. Model-View-Controller architecture
-
+4. N/A
+   
+5. N/A
+   
 ## Complete!
 
 You've completed your first homework assignment! Commit this file and push it to GitHub. You should be able to see that it's been submitted properly on the Github Classroom page or on your assignment repository.
